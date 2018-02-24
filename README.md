@@ -1,4 +1,4 @@
-# Neopixel strip control example
+# Neopixel RGBW strip control example
 
 ## Overview
 
